@@ -167,10 +167,10 @@ Sebelum memulai, pastikan kamu sudah menginstal:
 
 | Item | Keterangan |
 |------|------------|
-| Nama | _________________________ |
-| NIM | _________________________ |
-| Tanggal Mulai | _________________________ |
-| Tanggal Selesai | _________________________ |
+| Nama | Muhammad Khadafi |
+| NIM | 105841113021 |
+| Tanggal Mulai | 10 Februari 2026 |
+| Tanggal Selesai | 19 Februari 2026 |
 | Tanda Tangan | _________________________ |
 
 ---
