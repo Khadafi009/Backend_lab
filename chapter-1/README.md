@@ -760,7 +760,7 @@ Di **[Chapter 2](../chapter-2/README.md)**, kamu akan belajar:
 
 | Item | Keterangan |
 |------|------------|
-| Nama | _________________________ |
-| NIM | _________________________ |
-| Tanggal | _________________________ |
-| Tanda Tangan | _________________________ |
+| Nama | Muhamad Khadafi |
+| NIM | 105841113021 |
+| Tanggal | 19 Februari 2026 |
+| Tanda Tangan |  |
